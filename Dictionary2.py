@@ -3,13 +3,21 @@
 for i in countries:
     print(i)'''
 
-def countries():
-    countries = {"india":"Andhra Prades","America":"Texas","Australia":"Sydney"}
+def countries(dictionary):
 
-    print(countries)
+    for key,value in dictionary.items():
 
 
-print(countries())
+        print(f"{key}:{value}")
+
+countries_caps = {"india":"Andhra Prades","America":"Texas","Australia":"Sydney"}
+
+countries(countries_caps)
+
+
+
+
+
 
 
 

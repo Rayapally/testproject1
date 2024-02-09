@@ -1,0 +1,160 @@
+What is the main goal of "Smoke Testing" in manual testing?
+A) To create random test scripts
+B) To validate code quality
+C) To quickly verify that basic functionality works after changes
+D) To analyze code structure
+ANSWER: C
+
+In manual testing, what does "Defect Severity" measure?
+A) The number of defects in the software
+B) The impact or seriousness of a defect on the system
+C) The priority of fixing a defect
+D) The code quality
+ANSWER: B
+
+What is the primary focus of "Exploratory Testing" in manual testing?
+A) To simulate user interactions
+B) To execute predefined test scripts
+C) To analyze code structure
+D) To create random test scripts
+ANSWER: A
+
+What is the primary objective of "Beta Testing" in manual testing?
+A) To simulate user interactions
+B) To validate code quality
+C) To collect feedback from real users to identify defects and improve the software
+D) To create test scripts
+ANSWER: C
+
+In manual testing, what is the purpose of "Load Testing"?
+A) To analyze code structure
+B) To create random test scripts
+C) To evaluate the software's performance under expected load conditions
+D) To focus on code review
+ANSWER: C
+
+What does "Test Closure" involve in manual testing?
+A) Closing defects identified during testing
+B) Creating random test scripts
+C) Finalizing test documentation and reporting
+D) Analyzing code structure
+ANSWER: C
+
+In manual testing, what is "Compliance Testing" primarily focused on?
+A) Analyzing code structure
+B) Testing compliance with industry standards and regulations
+C) Creating random test scripts
+D) Validating code quality
+ANSWER: B
+
+What is "Test Case Prioritization" in manual testing?
+A) Assigning priorities to test cases based on their importance and likelihood of failure
+B) Simulating user interactions
+C) Analyzing code structure
+D) Creating random test scripts
+ANSWER: A
+
+In manual testing, what does "Backward Compatibility Testing" focus on?
+A) Testing the latest software version
+B) Analyzing code structure
+C) Testing the software's compatibility with older versions and configurations
+D) Creating random test scripts
+ANSWER: C
+
+What is the primary purpose of "Decision Table Testing" in manual testing?
+A) To create random test scripts
+B) To validate code quality
+C) To test all possible combinations of inputs to identify defects
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what is the purpose of "Code Review"?
+A) To create random test scripts
+B) To execute test cases
+C) To analyze code structure for defects and improvements
+D) To test software performance
+ANSWER: C
+
+In manual testing, what does "Smoke Testing" check for?
+A) Complex defects in the software
+B) Critical functionalities that need to work without issues
+C) Analyzing code structure
+D) Creating random test scripts
+ANSWER: B
+
+In manual testing, what is the main focus of "Error Guessing"?
+A) Creating random test scripts
+B) Executing test cases
+C) Identifying defects through educated guesses and experience
+D) Analyzing code structure
+ANSWER: C
+
+What is the main goal of "Data-Driven Testing" in manual testing?
+A) Creating random test scripts
+B) Analyzing code structure
+C) Using data sets to drive test case execution with multiple inputs
+D) Simulating user interactions
+ANSWER: C
+
+In manual testing, what is the primary objective of "Configuration Testing"?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Testing the software under various hardware and software configurations
+D) Validating code quality
+ANSWER: C
+
+What is "Defect Management" in manual testing?
+A) The process of creating test scripts
+B) The process of tracking, reporting, and managing defects found during testing
+C) The process of validating code quality
+D) The process of analyzing code structure
+ANSWER: B
+
+What is the main goal of "Data Validation Testing" in manual testing?
+A) To analyze code structure
+B) To validate code quality
+C) To ensure that data input and processing are accurate and reliable
+D) To create random test scripts
+ANSWER: C
+
+What is the primary purpose of "Negative Testing" in manual testing?
+A) To analyze code structure
+B) To focus on code review
+C) To validate code quality
+D) To intentionally test the software with invalid inputs and scenarios
+ANSWER: D
+
+What is "Stress Testing" in manual testing?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Testing the software's resilience under extreme loads and conditions
+D) Focusing on code review
+ANSWER: C
+
+In manual testing, what does "Pair Testing" primarily involve?
+A) Creating random test scripts
+B) Executing tests in pairs
+C) Focusing on code review
+D) Identifying defects through cooperative testing by two individuals
+ANSWER: D
+
+In manual testing, what is the primary focus of "Test Execution"?
+A) Creating test cases
+B) Identifying defects in the software
+C) Running test cases to validate the software's behavior
+D) Writing code for new features
+ANSWER: C
+
+In manual testing, what does "Destructive Testing" involve?
+A) Focusing on code review
+B) Validating code quality
+C) Testing the software's resilience by intentionally causing failures
+D) Creating random test scripts
+ANSWER: C
+
+What is the primary objective of "Concurrency Testing" in manual testing?
+A) To analyze code structure
+B) To focus on code review
+C) To test the software's performance under concurrent user loads
+D) To create random test scripts
+ANSWER: C

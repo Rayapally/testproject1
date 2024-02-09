@@ -1,0 +1,216 @@
+What is the primary goal of manual testing?
+A) To identify defects in the software
+B) To automate test cases
+C) To simulate user interactions
+D) To analyze code structure
+ANSWER: A
+
+Which testing type involves executing test cases without any predefined test scripts or plans?
+A) Smoke Testing
+B) Regression Testing
+C) Exploratory Testing
+D) Stress Testing
+ANSWER: C
+
+What is the purpose of "Usability Testing" in manual testing?
+A) To validate code quality
+B) To evaluate the software's user-friendliness and ease of use
+C) To create test scripts
+D) To perform load testing
+ANSWER: B
+
+Which of the following is not a common test design technique used in manual testing?
+A) Boundary Value Analysis
+B) Equivalence Partitioning
+C) Random Code Generation
+D) Decision Table Testing
+ANSWER: C
+
+In manual testing, what is "Regression Testing" primarily focused on?
+A) Testing new features
+B) Testing the software's user interface
+C) Ensuring that recent code changes do not introduce defects in existing functionality
+D) Analyzing code structure
+ANSWER: C
+
+What type of testing focuses on testing an application's user interface and overall user experience?
+A) Performance Testing
+B) Functional Testing
+C) Usability Testing
+D) Security Testing
+ANSWER: C
+
+What is "Test Case Execution" in manual testing?
+A) The process of designing test cases
+B) The process of identifying defects in the software
+C) The process of running test cases to validate the software's behavior
+D) The process of writing code
+ANSWER: C
+
+What is the main goal of "Sanity Testing" in manual testing?
+A) To focus on code review
+B) To perform load testing
+C) To quickly verify that basic functionality works after changes
+D) To create random test scripts
+ANSWER: C
+
+What is the purpose of "Test Data" in manual testing?
+A) To analyze code structure
+B) To create test scripts
+C) To generate input data for test cases
+D) To simulate user interactions
+ANSWER: C
+
+What is "Defect Logging" in manual testing?
+A) The process of identifying defects in the software
+B) The process of designing test cases
+C) The process of executing test cases
+D) The process of creating random test scripts
+ANSWER: A
+
+What is the main goal of "Security Testing" in manual testing?
+A) To focus on code review
+B) To simulate user interactions
+C) To identify and mitigate security vulnerabilities in the software
+D) To analyze code structure
+ANSWER: C
+
+What is "Test Coverage" in manual testing?
+A) The process of creating test scripts
+B) The extent to which a test suite covers the functionality of an application
+C) The process of identifying defects in the software
+D) The process of analyzing code structure
+ANSWER: B
+
+In manual testing, what does "Test Environment" refer to?
+A) The process of creating random test scripts
+B) The hardware, software, and network configurations used for testing
+C) The process of analyzing code structure
+D) The process of identifying defects in the software
+ANSWER: B
+
+What is "Exploratory Testing" in manual testing?
+A) A systematic approach to testing
+B) Executing test cases without prior planning
+C) Analyzing code structure
+D) Creating random test scripts
+ANSWER: B
+
+What is the primary purpose of "Non-Functional Testing" in manual testing?
+A) To focus on code review
+B) To execute random tests
+C) To test aspects of the software other than its functionality, such as performance and security
+D) To create test scripts
+ANSWER: C
+
+What is "Test Plan" in manual testing?
+A) A document that outlines the scope, objectives, and approach of testing
+B) A document for recording defects
+C) A tool for creating test scripts
+D) A tool for test data generation
+ANSWER: A
+
+What is the main goal of "Random Testing" in manual testing?
+A) To analyze code structure
+B) To execute test cases manually
+C) To create random test scripts
+D) To focus on code analysis
+ANSWER: C
+
+What is the primary purpose of "Accessibility Testing" in manual testing?
+A) To focus on code review
+B) To test web applications
+C) To ensure that the software is usable by individuals with disabilities
+D) To validate software installations
+ANSWER: C
+
+In manual testing, what is the primary focus of "Gorilla Testing"?
+A) To execute load tests
+B) To create random test scripts
+C) To focus on code review
+D) To identify critical defects in a specific area of an application
+ANSWER: D
+
+In manual testing, what is the purpose of "Walkthrough" sessions?
+A) To validate code quality
+B) To analyze code structure
+C) To conduct informal meetings to review and discuss test cases and test plans
+D) To create test scripts
+ANSWER: C
+
+What is the primary objective of "Risk Assessment" in manual testing?
+A) To analyze code structure
+B) To create random test scripts
+C) To identify and evaluate potential risks and their impact on testing
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what does "BVA" stand for?
+A) Boundary Value Analysis
+B) Bug Verification and Authorization
+C) Browser Version Analysis
+D) Behavior Verification and Analysis
+ANSWER: A
+
+What is the main goal of "Compatibility Testing" in manual testing?
+A) To focus on code review
+B) To create test scripts
+C) To test an application on different browsers, devices, and platforms
+D) To execute performance tests
+ANSWER: C
+
+What is the purpose of "Heuristic Testing" in manual testing?
+A) To validate code quality
+B) To simulate user interactions
+C) To identify defects using educated guesses and rules of thumb
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what is the main goal of "Endurance Testing"?
+A) To execute load tests
+B) To focus on code review
+C) To validate code quality
+D) To test the software's ability to perform well under extended load conditions
+ANSWER: D
+
+What is the primary objective of "Recovery Testing" in manual testing?
+A) To analyze code structure
+B) To create random test scripts
+C) To test how well the software can recover from failures or crashes
+D) To simulate user interactions
+ANSWER: C
+
+What is the purpose of "Risk-Based Testing" in manual testing?
+A) To create random test scripts
+B) To assess and prioritize testing efforts based on identified risks
+C) To focus on code review
+D) To validate software installations
+ANSWER: B
+
+In manual testing, what does "Chaos Testing" refer to?
+A) To create random test scripts
+B) To validate software installations
+C) To simulate and identify potential weaknesses in a system by introducing controlled chaos
+D) To analyze code structure
+ANSWER: C
+
+In manual testing, what does "Session-Based Testing" involve?
+A) Creating random test scripts during testing sessions
+B) Tracking testing activities during a specified time period or session
+C) Executing a specific set of test cases
+D) Analyzing code structure
+ANSWER: B
+
+What is the primary goal of "Comparative Testing" in manual testing?
+A) To validate code quality
+B) To create random test scripts
+C) To compare the performance or functionality of two or more software versions
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what does "Alpha Testing" involve?
+A) Focusing on code review
+B) Validating code quality
+C) Conducting internal testing within the development team
+D) Creating random test scripts
+ANSWER: C

@@ -1,0 +1,69 @@
+What is the primary goal of "Smoke Testing" in manual testing?
+A) To simulate user interactions
+B) To validate code quality
+C) To quickly assess if basic functionalities are working before more extensive testing
+D) To focus on code review
+ANSWER: C
+
+What is the main objective of "Boundary Value Analysis" in manual testing?
+A) To analyze code structure
+B) To create random test scripts
+C) To test the software's behavior at the edge of input boundaries
+D) To simulate user interactions
+ANSWER: C
+
+In manual testing, what is the main objective of "Database Testing"?
+A) To validate code quality
+B) To analyze code structure
+C) To ensure that the software interacts correctly with the database
+D) To create random test scripts
+ANSWER: C
+
+What is the primary purpose of "Parallel Testing" in manual testing?
+A) To create random test scripts
+B) To validate code quality
+C) To test the same software on multiple environments simultaneously
+D) To analyze code structure
+ANSWER: C
+
+What is the main goal of "Interoperability Testing" in manual testing?
+A) To simulate user interactions
+B) To create random test scripts
+C) To ensure that the software can work seamlessly with other systems or components
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what is "Test Planning"?
+A) Creating random test scripts
+B) Documenting the approach and objectives of testing
+C) Analyzing code structure
+D) Running test cases to validate the software's behavior
+ANSWER: B
+
+What is the primary focus of "Concurrent Testing" in manual testing?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Testing the software's performance under concurrent user loads
+D) Focusing on code review
+ANSWER: C
+
+In manual testing, what does "Retesting" involve?
+A) Focusing on code review
+B) Running the same test cases that previously failed
+C) Validating code quality
+D) Creating random test scripts
+ANSWER: B
+
+What is the primary purpose of "Ad Hoc Testing" in manual testing?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Testing the software in an informal, unplanned manner
+D) Focusing on code review
+ANSWER: C
+
+In manual testing, what is the primary objective of "Installability Testing"?
+A) Creating random test scripts
+B) Analyzing code structure
+C) Evaluating the software's installation process and ease of installation
+D) Validating code quality
+ANSWER: C

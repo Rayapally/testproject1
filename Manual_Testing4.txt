@@ -1,0 +1,34 @@
+What is the primary purpose of "Acceptance Testing" in manual testing?
+A) To simulate user interactions
+B) To validate code quality
+C) To ensure that the software meets specified requirements and expectations
+D) To focus on code review
+ANSWER: C
+
+In manual testing, what is the main goal of "Performance Testing"?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Evaluating the software's speed, responsiveness, and scalability
+D) Focusing on code review
+ANSWER: C
+
+In manual testing, what is "Defect Retesting" primarily focused on?
+A) Validating code quality
+B) Analyzing code structure
+C) Verifying that previously identified defects have been fixed
+D) Creating random test scripts
+ANSWER: C
+
+What is the primary purpose of "Negative Testing" in manual testing?
+A) To analyze code structure
+B) To focus on code review
+C) To validate code quality
+D) To intentionally test the software with invalid inputs and scenarios
+ANSWER: C
+
+What is the purpose of "Static Testing" in manual testing?
+A) To execute predefined test cases
+B) To validate code quality
+C) To analyze code structure for defects without executing the software
+D) To create random test scripts
+ANSWER: C

@@ -1,0 +1,20 @@
+What is the primary purpose of "Traceability Matrix" in manual testing?
+A) To analyze code structure
+B) To track the relationship between test cases and requirements
+C) To create random test scripts
+D) To measure the code's quality
+ANSWER: B
+
+What is "User Acceptance Testing" in manual testing?
+A) Analyzing code structure
+B) Creating random test scripts
+C) The process of validating the software from the end user's perspective
+D) Focusing on code review
+ANSWER: C
+
+What is the primary purpose of "Beta Testing" in manual testing?
+A) To analyze code structure
+B) To create random test scripts
+C) To collect feedback from real users to identify defects and improve the software
+D) To focus on code review
+ANSWER: C

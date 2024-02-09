@@ -1,0 +1,62 @@
+What is the primary purpose of "Installation Testing" in manual testing?
+A) To create random test scripts
+B) To validate code quality
+C) To ensure that the software installs correctly and functions as expected
+D) To analyze code structure
+ANSWER: C
+
+In manual testing, what is the main focus of "Scalability Testing"?
+A) Creating random test scripts
+B) Validating code quality
+C) Testing the software's ability to scale under increasing load
+D) Focusing on code review
+ANSWER: C
+
+What is the main goal of "Black Box Testing" in manual testing?
+A) To create random test scripts
+B) To validate code quality
+C) To test the software's functionality without knowledge of its internal structure
+D) To analyze code structure
+ANSWER: C
+
+What is the primary objective of "Monkey Testing" in manual testing?
+A) To create random test scripts
+B) To execute tests in pairs
+C) To focus on code review
+D) To identify critical defects in a specific area of an application
+ANSWER: A
+
+What is the main goal of "Traceability" in manual testing?
+A) To monitor test execution progress
+B) To analyze code structure
+C) To establish a clear connection between test cases and requirements or user stories
+D) To create random test scripts
+ANSWER: C
+
+In manual testing, what is the main focus of "GUI Testing"?
+A) To execute load tests
+B) To create random test scripts
+C) To evaluate the graphical user interface of the software
+D) To analyze code structure
+ANSWER: C
+
+What is "Compatibility Testing" in manual testing?
+A) The process of testing the software's compatibility with various devices and platforms
+B) The process of testing software functionalities
+C) The process of analyzing code structure
+D) The process of creating random test scripts
+ANSWER: A
+
+In manual testing, what is the primary focus of "Security Testing"?
+A) Analyzing code structure
+B) Creating random test scripts
+C) Evaluating the software's security features and vulnerabilities
+D) Validating code quality
+ANSWER: C
+
+What is the main goal of "Equivalence Partitioning" in manual testing?
+A) To analyze code structure
+B) To create random test scripts
+C) To divide input data into equivalent groups to optimize testing
+D) To simulate user interactions
+ANSWER: C
